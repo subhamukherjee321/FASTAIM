@@ -80,7 +80,7 @@ On this journey we faced many issues, but we keep motivated each other with pati
 
 - We also got a glimpse of using GitHub for the version control.
 
-Source Code(GitHub link):- https://github.com/3003abhishek/auspicious-fog-5566
+Source Code(GitHub link):- https://github.com/subhamukherjee321/FASTAIM
 
 ## Show your support
 
